@@ -15,4 +15,9 @@
         android:name="mbk.io.sabrina_hm4_5m.MainFragment"
         android:label="fragment_main"
         tools:layout="@layout/fragment_main" />
+    <fragment
+        android:id="@+id/secondFragment"
+        android:name="mbk.io.sabrina_hm4_5m.SecondFragment"
+        android:label="fragment_second"
+        tools:layout="@layout/fragment_second" />
 </navigation>

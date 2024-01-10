@@ -3,6 +3,7 @@ package mbk.io.sabrina_hm4_5m
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import dagger.hilt.android.lifecycle.HiltViewModel
+import mbk.io.sabrina_hm4_5m.model.LoveModel
 import javax.inject.Inject
 
 @HiltViewModel

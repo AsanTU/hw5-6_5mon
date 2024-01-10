@@ -8,7 +8,7 @@ import dagger.hilt.InstallIn
 import dagger.hilt.android.qualifiers.ApplicationContext
 import dagger.hilt.components.SingletonComponent
 import mbk.io.sabrina_hm4_5m.Hero
-import mbk.io.sabrina_hm4_5m.LoveApi
+import mbk.io.sabrina_hm4_5m.model.LoveApi
 import mbk.io.sabrina_hm4_5m.Pref
 import mbk.io.sabrina_hm4_5m.Utils
 import retrofit2.Retrofit

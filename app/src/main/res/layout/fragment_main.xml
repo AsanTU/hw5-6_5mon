@@ -14,8 +14,8 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:gravity="center"
-        tools:text="Result"
-        android:textSize="28sp" />
+        android:textSize="28sp"
+        tools:text="Result" />
 
     <com.google.android.material.textfield.TextInputLayout
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
@@ -50,7 +50,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="20dp"
+        android:backgroundTint="@android:color/holo_purple"
         android:text="Get"
         android:textSize="20sp" />
 
+    <Button
+        android:id="@+id/btn_history"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:backgroundTint="@android:color/holo_purple"
+        android:text="History"
+        android:textSize="20sp" />
 </LinearLayout>

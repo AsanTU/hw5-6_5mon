@@ -1,4 +1,4 @@
-package mbk.io.sabrina_hm4_5m
+package mbk.io.sabrina_hm4_5m.model
 
 import retrofit2.Call
 import retrofit2.http.GET
